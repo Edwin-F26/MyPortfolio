@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#98F0E4;
+}
+
+hr {
+	border-style: none;
+	border-color: black;
+	border-top-style: dotted;
+	border-width: 3px;
+	width: 27px;
+}
